@@ -26,11 +26,11 @@
 <br>
 <div align=center>
   <h2 align="center"> Minhas atividades </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martins-ana&theme=chartreuse-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=martins-ana&theme=chartreuse-light">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=martins-ana&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=martins-ana&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ana&layout=compact&hide=TSQL&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ana&layout=compact&hide=TSQL&theme=chartreuse-light">
 </div>
