@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, Eu me chamo Ana!😼 </h1>
+<h1 align="center"> Olá, eu me chamo Ana!😼 </h1>
 
 <img align="left" alt="Ana-Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NzZ3Z0NXJveXB6MXliMmIwOXE1N2V0aXpnbnRuZmNicWV4ZDRkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BsXwYOJrxFBXiGiLZS/giphy.gif" width=200px>
 &nbsp;&nbsp;&nbsp;&nbsp; - 🖥️ Estudante de Ánalise e Desenvolvimento de sistemas. <br>
