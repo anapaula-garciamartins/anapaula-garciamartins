@@ -13,24 +13,20 @@
 
 <br>
 <br>
-<div style="display: inline_block" align="center"><br>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martins-ana&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martins-ana&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+<div align="center" >
   <h2 align="center"> Tecnologias que utilizo atualmente </h2>
-  <img align="center" alt="Icon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Icon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Icon-Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Icon-Typescript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Icon-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,css,html,react,vite,vercel,tailwind,figma,materialui,bootstrap" />
+  </a>
+  <br />
 </div>
 
-<br>
-<br>
-<div align=center>
-  <h2 align="center"> Minhas atividades </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martins-ana&theme=chartreuse-light">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=martins-ana&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ana&layout=compact&hide=TSQL&theme=chartreuse-light">
+##
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=martins-ana&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15"/>
 </div>
