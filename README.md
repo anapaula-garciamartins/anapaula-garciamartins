@@ -1,8 +1,8 @@
-<h1 align="center"> Olá, eu me chamo Ana!😼 </h1>
+<h1 align="center"> ✨Oi, eu sou a Ana!✨ </h1>
 
 <img align="left" alt="Ana-Gif" src="./gifParaPerfil.gif" width=200px>
 &nbsp;&nbsp;&nbsp;&nbsp;- 🖥️ Estudante de Ánalise e Desenvolvimento de sistemas. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 🎨 Entusiasta de Front-End. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 🎨 Gosto de front-end, design e tudo que envolve transformar ideias em experiências incríveis. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 📫 Onde me encontrar? ⬇️ <br>
 
 <br>
