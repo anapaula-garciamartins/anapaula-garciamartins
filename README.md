@@ -7,8 +7,8 @@
 
 <br>
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ana-paulamartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto: martinsgarciaana@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/anapaula-garciamartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:martinsgarciaana@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
@@ -37,11 +37,11 @@
 <br>
 <div align=center>
   <h2 align="center"> Minhas atividades </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martins-ana&theme=chartreuse-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anapaula-garciamartins&theme=chartreuse-dark">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=martins-ana&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=anapaula-garciamartins&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ana&layout=compact&hide=TSQL&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-garciamartins&layout=compact&hide=TSQL&theme=chartreuse-dark">
 </div>
